@@ -1,9 +1,9 @@
 title: Just the Docs Test
-description: Testing the starter template for a Jeykll site using the Just the Docs theme
+# description: Testing the starter template for a Jeykll site using the Just the Docs theme
 theme: just-the-docs
 
 # url: https://pitnyr.github.io/just-the-docs-test
-# baseurl: /just-the-docs-test
+baseurl: /just-the-docs-test
 
 aux_links:
   Repository: https://github.com/pitnyr/just-the-docs-test
