@@ -3,7 +3,7 @@ description: Testing the starter template for a Jeykll site using the Just the D
 theme: just-the-docs
 
 # url: https://pitnyr.github.io/just-the-docs-test
-baseurl: /just-the-docs-test
+# baseurl: /just-the-docs-test
 
 aux_links:
-  Template Repository: https://github.com/pitnyr/just-the-docs-test
+  Repository: https://github.com/pitnyr/just-the-docs-test
